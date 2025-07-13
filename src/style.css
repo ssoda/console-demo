@@ -1,0 +1,16 @@
+/* 全域樣式 */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+.el-button {
+  border-radius: 4px;
+}
+
+/* Material Design Icons 樣式 */
+.mdi {
+  font-size: 18px;
+}
